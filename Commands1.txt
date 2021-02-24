@@ -1,0 +1,6 @@
+git init
+git status- to check status
+git add file name
+git add *
+git diff file name
+test git commands
